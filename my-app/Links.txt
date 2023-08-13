@@ -1,0 +1,8 @@
+Learning Cors : https://blog.knoldus.com/a-guide-to-cors-in-node-js-with-express/
+Learning GraphQL : https://graphql.com/learn/the-query/
+GraphQl with Node : https://www.youtube.com/watch?v=Dr2dDWzThK8
+GraphQL with React : https://www.youtube.com/watch?v=YyUWW04HwKY
+
+Installing Workbench : https://www.youtube.com/watch?v=k5tICunelSU
+Connecting Nodejs with sql : https://www.youtube.com/watch?v=tIV90xQ0k6A
+
